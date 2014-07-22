@@ -1,8 +1,7 @@
 SpreeEasySocialShop
 ===================
 
-Introduction goes here.
-
+A Spree extension to integrating easy social shop to create facebook 
 Installation
 ------------
 
@@ -36,4 +35,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_easy_social_shop/factories'
 ```
 
-Copyright (c) 2014 [name of extension creator], released under the New BSD License
+Copyright (c) 2014 GoDaddy, released under the New BSD License
